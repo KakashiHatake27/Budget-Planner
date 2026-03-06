@@ -4,11 +4,11 @@ A Budget Planner
 
 ## What I would like to add to the app:
 1- Income Page
-    -> Add mulitple revenues
-    -> Specify stable and contract revenue
-    -> What day they get paid
-    -> Stable income gets added automatically 
-    -> Contract is occasional
+   * -> Add mulitple revenues
+   * -> Specify stable and contract revenue
+   * -> What day they get paid
+   * -> Stable income gets added automatically 
+   * -> Contract is occasional
 
 2- Fixed Expenses
     -> These expenses are constant
