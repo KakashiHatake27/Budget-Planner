@@ -11,9 +11,9 @@ A Budget Planner
    *  Contract is occasional
 
 2- Fixed Expenses
-    * These expenses are constant
-    * Occur on a monthly basis
-    * Mortgage, School Fees, car Payments
+   * These expenses are constant
+   * Occur on a monthly basis
+   * Mortgage, School Fees, car Payments
 
 3- Operational Expenses
     * These expenses are irregular
